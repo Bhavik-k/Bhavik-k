@@ -1,6 +1,6 @@
 ### Hi there 👋, I' [Bhavik Khawale](https://www.linkedin.com/in/bhavik-khawale/)
 
-### 🔎 Find Me At
+### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/bhavik-khawale/)
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:bhavikkhawale@gmail.com)
@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on an [Amazon Clone](https://youtu.be/Io-MrdQdAw8)
 - 🌱 I’m currently learning [React.js](https://reactjs.org/), [NextJS](https://nextjs.org/)
-- 📫 How to reach me: [E-Mail](mailto:bhavikkhawale@gmail.com)
 - 😄 Pronouns: [Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
 - ⚡ Fun fact: I Make youtube videos on channel named [Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
 
