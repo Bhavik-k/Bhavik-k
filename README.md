@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 
-<a href="https://github.com/KarthikNedunchezhiyan">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karthiknedunchezhiyan&show_icons=true&theme=algolia&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+<a href="https://github.com/Bhavik-k">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-k&show_icons=true&theme=algolia&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavik-k&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
 </a>
