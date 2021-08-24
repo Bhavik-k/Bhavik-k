@@ -10,7 +10,12 @@
 - ⚡ Fun fact: ...
 
 
-- 🤹 Skill I know
+##- 🤹 Skill I know
+
+![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React.JS-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next)
+
 
 
 <a href="https://github.com/Bhavik-k">
