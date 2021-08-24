@@ -1,6 +1,6 @@
 ### Hi there 👋, I' [Bhavik Khawale](https://www.linkedin.com/in/bhavik-khawale/)
 
-### 📫 How to reach me
+### 📬 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/bhavik-khawale/)
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:bhavikkhawale@gmail.com)
@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on an [Amazon Clone](https://youtu.be/Io-MrdQdAw8)
 - 🌱 I’m currently learning [React.js](https://reactjs.org/), [NextJS](https://nextjs.org/)
+<!-- - 📫 How to reach me: [E-Mail](mailto:bhavikkhawale@gmail.com), [Linkedin](😊) -->
 - 😄 Pronouns: [Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
 - ⚡ Fun fact: I Make youtube videos on channel named [Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
 
@@ -19,13 +20,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React.JS-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
 
 <a href="https://github.com/Bhavik-k">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-k&show_icons=true&theme=algolia&count_private=true" />
