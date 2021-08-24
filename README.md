@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Bhavik-k/Bhavik-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I' [Bhavik Khawale](https://www.linkedin.com/in/bhavik-khawale/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<a href="https://github.com/KarthikNedunchezhiyan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karthiknedunchezhiyan&show_icons=true&theme=algolia&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthiknedunchezhiyan&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+</a>
