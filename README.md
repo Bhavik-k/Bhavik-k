@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on an [Amazon Clone](https://youtu.be/Io-MrdQdAw8)
+- 🔭 I’m currently working on an [Amazon Clone](https://amazon-silk.vercel.app/)
 - 🌱 I’m currently learning [React.js](https://reactjs.org/), [NextJS](https://nextjs.org/)<!-- - 📫 How to reach me: [E-Mail](mailto:bhavikkhawale@gmail.com), [Linkedin](😊) -->
 - 😄 Pronouns: [Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
 - ⚡ Fun fact: [I Make youtube videos on channel named Bien Coder](https://www.youtube.com/channel/UCse9zFd0-n8w7fcCxStOzTg)
