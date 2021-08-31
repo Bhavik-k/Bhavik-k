@@ -27,8 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
 
 <a href="https://github.com/Bhavik-k">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-k&show_icons=true&theme=algolia&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavik-k&layout=compact&langs_count=8&theme=algolia&hide=html,css" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-k&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavik-k&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" />
 </a>
 
 ![Wave](https://raw.githubusercontent.com/KarthikNedunchezhiyan/KarthikNedunchezhiyan/main/wave.svg)
