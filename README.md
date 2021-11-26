@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Bhavik Khawale](https://www.linkedin.com/in/bhavik-khawale/)
+### Hi there hi, I'm [Bhavik Khawale](https://www.linkedin.com/in/bhavik-khawale/)
 
 ### 📬 How to reach me
 
