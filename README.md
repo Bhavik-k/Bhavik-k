@@ -25,6 +25,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
+![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=Tailwindcss)
+
 
 <a href="https://github.com/Bhavik-k">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-k&show_icons=true&theme=tokyonight&count_private=true" />
