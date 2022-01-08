@@ -4,7 +4,8 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on an Amazon Clone
-- 🌱 I’m currently learning [React.js](https://reactjs.org/), [NextJS](https://nextjs.org/)<!-- - 📫 How to reach me: [E-Mail](mailto:dansidiki@live.com), [Linkedin](https://www.linkedin.com/in/daniel-sidiki-22a326220/)
+- 🌱 I’m currently learning [React.js](https://reactjs.org/), [NextJS](https://nextjs.org/)
+- 📫 How to reach me: [E-Mail](mailto:dansidiki@live.com), [Linkedin](https://www.linkedin.com/in/daniel-sidiki-22a326220/)
 
 
 ### 🤹Skill I know
