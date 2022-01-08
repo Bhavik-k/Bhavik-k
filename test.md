@@ -1,4 +1,4 @@
-<img height="100em" style="border-radius:50%;" src="./HKfErTRt_400x400.jpg"/>
+<img height="100em" borderRadius="50%" src="./HKfErTRt_400x400.jpg"/>
 
 ### Hi there <img height="25em" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"/>, I'm Daniel Sidiki
 
