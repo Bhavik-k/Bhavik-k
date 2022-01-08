@@ -1,4 +1,4 @@
-<img height="120rem" borderRadius="50%" src="./PP.png"/>
+<img height="140rem" borderRadius="50%" src="./PP.png"/>
 
 ### Hi there <img height="25em" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"/>, I'm Daniel Sidiki
 
